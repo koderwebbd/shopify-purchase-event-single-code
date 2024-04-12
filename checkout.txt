@@ -1,0 +1,2 @@
+{% if first_time_accessed == true and post_purchase_page_accessed == false %}
+{% endif %}
